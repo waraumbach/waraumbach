@@ -1,10 +1,10 @@
 
 <!-- 
 <p  align="justify"><a href="https://www.youtube.com/watch?v=FtutLA63Cp8"><img width="100%" src="https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/ezgif.com-gif-maker%20(4).gif"></a></p> -->
-<h3 align="justify"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Ibid Athoillah</a></b></samp></h3> 
+<h3 align="justify"> <samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/ibidathoillah/ibidathoillah/master/VisualCV%20(6_23_2021%203_24_57%20AM).html">Waraphorn</a></b></samp></h3> 
 <p align="justify">
   <samp>
-     Bachelor Degree Computer Science of <a target="_blank"  href="https://dinus.ac.id/"><b>@University of Dian Nuswantoro</b></a> <br>
+     Bachelor Degree of Arts <a target="_blank"  href="https://www.ru.ac.th/th/"><b>@Ramkhamhaeng University</b></a> <br>
      Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
      <!--    <br>
 
