@@ -1,5 +1,5 @@
 <img width="350" align="right" alt="Github"
-src="https://image.lexica.art/full_jpg/507b4523-12d3-48f6-a869-7c19db0a8445" 
+src="https://c4.wallpaperflare.com/wallpaper/452/36/942/anime-manga-anime-girls-computer-wallpaper-preview.jpg" 
 /> 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stylish&size=35&duration=5000&pause=3000&color=000000&width=435&height=70&lines=Hi%2C+There+%F0%9F%91%8B+I'am+Wara.)](https://git.io/typing-svg)
