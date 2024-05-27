@@ -5,7 +5,6 @@
 <p align="justify">
   <samp>
      Bachelor Degree of Arts <a target="_blank"  href="https://www.ru.ac.th/th/"><b>@Ramkhamhaeng University</b></a> <br>
-     Student Exchange  Computer Science of <a target="_blank"  href="https://www.uum.edu.my/"><b>@Northern University of Malaysia</b></a> <br>
      <!--    <br>
 
      Work Journey : <a target="_blank"  href="https://www.sevenmediatech.co.id">@smt</a>, <a target="_blank"  href="https://www.payfazz.com/">@payfazz</a>, <a target="_blank"  href="https://www.titipaja.id">@titipaja</a>, <a target="_blank"  href="https://titippaket.com/"> @titippaket</a>, <a target="_blank"  href="https://superapp.id/"> @superapp</a> <br>
