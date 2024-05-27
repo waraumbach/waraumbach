@@ -9,6 +9,11 @@ Play [here](https://krishealty.github.io/T-Rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
+## Some other interesting TRex games:
+
+- [vianroyal](https://github.com/vianroyal) made [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
+<br>
+
 ## <samp> A little more about me:
 <samp>
 - 🌱 I’m a web developer<br>
