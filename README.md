@@ -1,4 +1,4 @@
-<img width="1000" align="right" alt="Github"
+<img width="800" align="right" alt="Github"
 src="https://www.arocom.de/sites/default/files/2019-05/frontend-development.png" 
 /> 
 
