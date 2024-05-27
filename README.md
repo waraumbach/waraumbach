@@ -1,6 +1,4 @@
-<img width="800" align="right" alt="Github"
-src="https://www.arocom.de/sites/default/files/2019-05/frontend-development.png" 
-/> 
+
 ## T-rex-Runner
 
 Chrome Offline Easter Egg game, inspired from [Wayou](https://github.com/wayou)
