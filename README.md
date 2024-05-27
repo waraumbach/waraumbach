@@ -1,8 +1,15 @@
 <img width="800" align="right" alt="Github"
 src="https://www.arocom.de/sites/default/files/2019-05/frontend-development.png" 
 /> 
+## T-rex-Runner
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stylish&size=35&duration=5000&pause=3000&color=000000&width=435&height=70&lines=Hi%2C+There+%F0%9F%91%8B+I'am+Wara.)](https://git.io/typing-svg)
+Chrome Offline Easter Egg game, inspired from [Wayou](https://github.com/wayou)
+
+see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+
+Play [here](https://krishealty.github.io/T-Rex-runner/)
+
+![chrome offline game cast](assets/screenshot.gif)
 
 ## <samp> A little more about me:
 <samp>
