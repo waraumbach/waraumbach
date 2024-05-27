@@ -1,5 +1,5 @@
 <img width="1000" align="right" alt="Github"
-src="https://media.istockphoto.com/id/1340005831/vector/web-development-related-vector-banner-design-concept-modern-line-style-with-icons.jpg?s=612x612&w=0&k=20&c=fTgUUt4ZzrS6hKD75wjUbDudRmNoeTORZwCnAkVbTZk=" 
+src="https://i.pinimg.com/736x/bc/83/b6/bc83b6576fdadfdabeb81b1e29e547e5.jpg" 
 /> 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stylish&size=35&duration=5000&pause=3000&color=000000&width=435&height=70&lines=Hi%2C+There+%F0%9F%91%8B+I'am+Wara.)](https://git.io/typing-svg)
