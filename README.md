@@ -23,7 +23,7 @@
 ## <samp> Main tech knowledge:
 <samp>
   <p align="left">
-- 🌱 FrontEnd - React.js, Vite.js, NextJS,HTML5,CSS3,Javascript <br>
+- 🌱 FrontEnd - React.js, Vite.js, NextJS,HTML5,CSS3 (tailwind ,bootstrap),Javascript <br>
 - 👯 BackEnd - Node, Express, MongoDB <br>
 - 📖 Wireframe -Figma<br>
 - 📫 How to reach me:<br><br>
