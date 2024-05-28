@@ -1,10 +1,5 @@
 
 
-## Some other interesting TRex games:
-
-- [vianroyal](https://github.com/vianroyal) made [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
-<br>
-
 ## <samp> A little more about me:
 <samp>
 - 🌱 I’m a web developer<br>
