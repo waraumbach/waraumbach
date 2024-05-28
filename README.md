@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-## <samp> my languages -web developer:
+## <h1> my languages -web developer:</h1>
   <br/>  <br/>
 <div>
  
