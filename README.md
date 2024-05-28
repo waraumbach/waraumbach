@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="300">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="300">
   <div/>
 
@@ -8,7 +8,6 @@
 - 🌱 I’m a web developer<br>
 - 👯 I’m looking for something new or creating some project<br>
 - 📖 I’m currently learning more about Web Developer <br>
-- 🎯 2024 Goals: Take part in the development <br>
 - 📫 How to reach me:<br><br>
 </samp>
 <div id="badges">
@@ -22,12 +21,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h3>Main tech knowledge<h3/>
-&nbsp;&nbsp;&nbsp;☑  FrontEnd - React.js, Vite.js, NextJS etc<br>
-&nbsp;&nbsp;&nbsp;☑  BackEnd - Node, Express, MongoDB etc<br>
-&nbsp;&nbsp;&nbsp;☑  Wireframe -Figma <br>
-<div>
 
+
+## <samp> Main tech knowledge:
+<samp>
+- 🌱 FrontEnd - React.js, Vite.js, NextJS,HTML5,CSS3,Javascript <br><br>
+- 👯 BackEnd - Node, Express, MongoDB <br>
+- 📖 Wireframe -Figma<br>
+- 📫 How to reach me:<br><br>
+</samp>
+<div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CoconutGoodie/figma-plugin-react-vite/master/.github/assets/logo.png" height="50px" alt="Logo"/>
 </p>
